@@ -1,4 +1,4 @@
-function Projects(props) {
+export default function Projects(props) {
     return (
         <div className="Projects">
             <div className="Project1">
@@ -20,4 +20,3 @@ function Projects(props) {
     )
 }
 
-export default Projects
