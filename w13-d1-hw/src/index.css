@@ -38,4 +38,23 @@ code {
   display: flex;
   justify-content: center;
   justify-content: space-around;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+.Project1-Name {
+  font-size: 30px;
+}
+
+.Project2-Name {
+  font-size: 30px;
+}
+
+.MySelf-Name {
+  font-size: 30px;
+}
+
+.MySelf-Position {
+  font-size: 20px;
+  font-family: cursive;
 }
