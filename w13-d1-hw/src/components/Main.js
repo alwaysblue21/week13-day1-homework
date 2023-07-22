@@ -1,3 +1,10 @@
-export default function Main() {
-    return <h1>Main</h1>
+import Projects from "./Projects"
+
+export default function Main(props) {
+    return (
+        <div className="Main">
+            <Projects />
+        </div>
+    )
 };
+
