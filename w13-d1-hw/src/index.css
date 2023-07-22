@@ -5,9 +5,37 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: antiquewhite;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.Nav-Bar {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.Project1-Links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.Project2-Links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.Footer-Nav {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
 }
